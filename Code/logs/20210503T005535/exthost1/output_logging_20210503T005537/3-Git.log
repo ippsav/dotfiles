@@ -1,0 +1,520 @@
+Looking for git in: git
+Using git 2.30.2 from git
+> git rev-parse --git-dir
+Open repository: /home/ippsav/Documents/projects/RecipeApp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/components/Navbar.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/components/Navbar.tsx
+> git cat-file -s 6562085c37a63887d011317f37fb532ff6a0d01f
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server/src/index.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/index.ts
+> git cat-file -s a1fd4be95a13c6e5a6923341a71c1da88cf662c1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :server/src/utils/types.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/utils/types.ts
+> git cat-file -s adacde13fe93bc947babe2d18c71ed1086c4bfda
+> git check-ignore -v -z --stdin
+> git show --textconv :server/src/index.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/index.ts
+> git cat-file -s a1fd4be95a13c6e5a6923341a71c1da88cf662c1
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git show --textconv :server/src/index.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/index.ts
+> git cat-file -s a1fd4be95a13c6e5a6923341a71c1da88cf662c1
+> git show --textconv :server/src/utils/types.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/utils/types.ts
+> git cat-file -s adacde13fe93bc947babe2d18c71ed1086c4bfda
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :server/src/index.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/index.ts
+> git cat-file -s a1fd4be95a13c6e5a6923341a71c1da88cf662c1
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git show --textconv :app/pages/home.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/home.tsx
+> git cat-file -s 2aa01e92458603629e7853951b30470522126ddb
+> git show --textconv :app/pages/index.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/index.tsx
+> git cat-file -s 6d180d80fbe01bcea37308b6082338f549ab4295
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :server/src/index.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/index.ts
+> git cat-file -s a1fd4be95a13c6e5a6923341a71c1da88cf662c1
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git show --textconv :server/src/index.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/server/src/index.ts
+> git cat-file -s a1fd4be95a13c6e5a6923341a71c1da88cf662c1
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/pages/login.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/pages/login.tsx
+> git cat-file -s ff4a41064317fee2417a9cf8eea81259028a5bb5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :app/utils/createUrqlClient.ts
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git status -z -u
+> git cat-file -s ca6fb85ddd62f0dc5cc114c77a681207c63d6e59
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/utils/createUrqlClient.ts
+> git cat-file -s e090551d1bd72df11c25231848cf2808cc28ba92
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :app/utils/createUrqlClient.ts
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "coc-prettier": ">=1.1.23",
+    "coc-prisma": ">=0.9.0",
+    "coc-tailwindcss": ">=0.7.0",
+    "coc-tsserver": ">=1.7.0"
+  }
+}

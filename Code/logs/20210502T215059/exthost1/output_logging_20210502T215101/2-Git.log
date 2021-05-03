@@ -1,0 +1,24 @@
+Looking for git in: git
+Using git 2.30.2 from git
+> git rev-parse --git-dir
+Open repository: /home/ippsav/Documents/projects/RecipeApp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ippsav/Documents/projects/RecipeApp/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/tsconfig.json
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/tsconfig.json
+> git cat-file -s c65399cb28e5d429df0d1904632868cb4cd98782
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/components/Layout.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/components/Layout.tsx
+> git cat-file -s 3ec93f0272e30fef04e0ff65d0fee9c8616108c1
+> git show --textconv :app/components/Navbar.tsx
+> git ls-files --stage -- /home/ippsav/Documents/projects/RecipeApp/app/components/Navbar.tsx
+> git cat-file -s 6562085c37a63887d011317f37fb532ff6a0d01f
